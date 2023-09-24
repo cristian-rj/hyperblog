@@ -4,4 +4,6 @@ Esta es una prueba con git en local y con vs code en el curso de platzi.
 
 Este es un mensaje de prueba.
 
+Una nueva prueba.
+
 Saludos.
